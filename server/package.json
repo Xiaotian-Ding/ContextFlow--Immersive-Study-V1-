@@ -1,0 +1,14 @@
+{
+  "name": "screen-assist-server",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "openai": "^4.104.0"
+  }
+}
